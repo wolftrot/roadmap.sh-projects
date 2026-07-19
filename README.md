@@ -2,4 +2,4 @@
 This Repository contains projects built in the roadmap.sh front-end developer path.
 ## Projects
 
-[Single-Page CV (using only HTML)](https://roadmap.sh/projects/single-page-cv),
+[Single-Page CV (using only HTML)](https://roadmap.sh/projects/single-page-cv),[Basic HTML Website](https://roadmap.sh/projects/basic-html-website),
